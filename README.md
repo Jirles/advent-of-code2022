@@ -2,5 +2,6 @@
 
 Using Python and Jupyter Notebooks.
 
-Current star count: 4
+Current :star: count: 4
+
 Private Leaderboard (Fulcrum) rank: 2
